@@ -8,8 +8,8 @@
     "test": "karma start --single-run"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/neoziro/angular-primus.git"
+    "type": "https",
+    "url": "https://github.com/IvonWebdev/realtime-messages.git"
   },
   "keywords": [
     "primus",
